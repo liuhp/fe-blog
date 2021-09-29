@@ -13,3 +13,4 @@
 
 ### 其他
 1. RSS： https://rss.shab.fun/
+2. 前端导航：https://www.kwgg2020.com/#
