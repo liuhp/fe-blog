@@ -1,6 +1,10 @@
 # resources
 资源汇总
 
+
+### 个人博客
+1. [本人]（https://liuhp.github.io/）学习记录，持续更新
+
 ### 技术周刊
 1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
 2. [阮一峰-科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
