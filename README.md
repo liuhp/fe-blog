@@ -3,7 +3,7 @@
 
 
 ### 个人博客
-1. [本人](https://liuhp.github.io/)学习记录，持续更新
+1. [本人学习记录，持续更新](https://liuhp.github.io/)
 
 ### 技术周刊
 1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
