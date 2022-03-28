@@ -20,7 +20,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 
 ### CSS
 1. [张鑫旭个人网站](https://www.zhangxinxu.com/wordpress/)
-2. 书籍：CSS解密
+2. 书籍：CSS揭秘
 
 ### HTTP
 
