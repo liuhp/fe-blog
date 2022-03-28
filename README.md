@@ -24,8 +24,9 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 
 ### 🐷HTTP
 
-书籍：图解http
-好文：[RSA初探，聊聊怎么破解HTTPS](https://juejin.cn/post/6844904087205445640)
+1. 书籍：图解http
+2. [从输入URL到页面加载过程](https://zhongmeizhi.github.io/fed-note/browser/page_load.html)
+3. [RSA初探，聊聊怎么破解HTTPS](https://juejin.cn/post/6844904087205445640)
 
 ### 🦁技术周刊
 1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
