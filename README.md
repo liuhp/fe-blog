@@ -5,9 +5,14 @@
 ### 个人博客
 1. [本人学习记录，持续更新](https://liuhp.github.io/)
 
-### 技术周刊
-1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
-2. [阮一峰-科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
+### Vue3
+1.优质github：[Vue3-News](https://github.com/vue3/vue3-News)
+
+
+### Vue2
+ 1.[Vue源码系列](https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92)
+
+
 
 ### React
 
@@ -21,6 +26,11 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 
 书籍：图解http
 好文：[RSA初探，聊聊怎么破解HTTPS](https://juejin.cn/post/6844904087205445640)
+
+### 技术周刊
+1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
+2. [阮一峰-科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
+
 
 ### 工具类
 1. [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
