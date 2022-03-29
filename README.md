@@ -39,6 +39,8 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 1. [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
 2. Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用：https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension
 
+### 面试
+1. [web-interview](https://github.com/febobo/web-interview)  star3.3k
 
 ### 🐼综合
 1. RSS： https://rss.shab.fun/
