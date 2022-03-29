@@ -7,11 +7,11 @@
 2. [前端复习资料集锦](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 3. 
 
-### 🐣Vue3
+### 🌺Vue3
 1.优质github：[Vue3-News](https://github.com/vue3/vue3-News)
 
 
-### 🐥Vue2
+### 🐶Vue2
  1.[Vue源码系列](https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92)
 
 
@@ -39,7 +39,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 1. [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
 2. Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用：https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension
 
-### 面试
+### 🤡面试
 1. [web-interview](https://github.com/febobo/web-interview)  star3.3k
 
 ### 🐼综合
