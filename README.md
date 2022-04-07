@@ -5,7 +5,7 @@
 ### ✍博客
 1. [本人学习记录，持续更新](https://liuhp.github.io/)
 2. [前端复习资料集锦](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
-3. 
+
 
 ### 🌺Vue3
 1.优质github：[Vue3-News](https://github.com/vue3/vue3-News)
@@ -36,10 +36,11 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 
 
 ### 🐯工具类
-1. [markdown2PDF](https://md2pdf.netlify.app/)
-2. [在线画图](https://excalidraw.com/)
-3. [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
-4. Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用：https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension
+1. [开发者手册](https://cloud.tencent.com/developer/devdocs)
+2. [markdown2PDF](https://md2pdf.netlify.app/)
+3. [在线画图](https://excalidraw.com/)
+4. [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
+5. Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用：https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension
 
 ### 🤡面试
 1. [web-interview](https://github.com/febobo/web-interview)  star3.3k
