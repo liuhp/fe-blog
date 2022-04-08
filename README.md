@@ -4,7 +4,6 @@
 
 ### ✍博客
 1. [本人学习记录，持续更新](https://liuhp.github.io/)
-2. [前端复习资料集锦](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
 
 ### 🌺Vue3
@@ -44,6 +43,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 
 ### 🤡面试
 1. [web-interview](https://github.com/febobo/web-interview)  star3.3k
+2. [前端复习资料集锦](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 
 ### 🐼综合
 1. RSS： https://rss.shab.fun/
