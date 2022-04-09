@@ -1,7 +1,6 @@
 # FE resources
 
-前端资源汇总
-
+## 前端资源汇总👇
 
 ### ✍博客
 
@@ -13,15 +12,15 @@ Blog, Weekly|阮一峰博客| https://github.com/ruanyf/weekly |https://www.ruan
 
 
 ### 🌺框架学习
+
 分类 | 名称 | 网站 
 --- | --- | --- 
-Vue2 |Vue源码系列 | https://vue-js.(https://threejs.org/)
-    > JavaScript 3D引擎
-* [d3js]com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92
+Vue2 |Vue源码系列 | https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92
 Vue3 | Vue3-News | https://github.com/vue3/vue3-News 
 React | 30-Days-Of_React | https://github.com/Asabeneh/30-Days-Of-React
 
 ### 🙉书籍
+
 分类 | 名称 | 豆瓣
 --- | --- | --- 
 CSS | CSS揭秘 | https://book.douban.com/subject/26745943/
@@ -34,10 +33,13 @@ HTTP | 图解http | https://book.douban.com/subject/25863515/
 * [RSA初探，聊聊怎么破解HTTPS](https://juejin.cn/post/6844904087205445640)
 
 ### 🦁技术周刊
-* 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
+
+* [前端精读周刊](https://github.com/ascoders/weekly)
+    > 帮你理解最前沿、实用的技术: 
 
 
 ### 🐯工具类
+
 * [RSSHub](https://rss.shab.fun/)
 * [开发者手册](https://cloud.tencent.com/developer/devdocs)
 * [markdown2PDF](https://md2pdf.netlify.app/)
@@ -66,15 +68,17 @@ HTTP | 图解http | https://book.douban.com/subject/25863515/
 * [frp](https://github.com/fatedier/frp)
     > 内网穿透, 本地代码调试线上页面，环境再也不是问题
 * [github.dev](https://github.dev)
-    > 随时随地在线编写代码
+    > Github通过快捷键<kbd>.</kbd>触发在线编写代码
 * [vscode.dev](https://vscode.dev/)
     > 有浏览器的地方就有vscode
 
 ### 🤡面试
+
  名称 | Star
 --- | --- 
 [web-interview](https://github.com/febobo/web-interview)  | ![GitHub Repo stars](https://img.shields.io/github/stars/febobo/web-interview?style=social)
 [前端复习资料集锦](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | ![GitHub Repo stars](https://img.shields.io/github/stars/CavsZhouyou/Front-End-Interview-Notebook?style=social)
 
 ### 🐼综合
+
 * [前端导航](https://www.kwgg2020.com/#) 汇聚了前端各种资源
