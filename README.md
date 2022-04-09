@@ -15,7 +15,9 @@ Blog, Weekly|阮一峰博客| https://github.com/ruanyf/weekly |https://www.ruan
 ### 🌺框架学习
 分类 | 名称 | 网站 
 --- | --- | --- 
-Vue2 |Vue源码系列 | https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92
+Vue2 |Vue源码系列 | https://vue-js.(https://threejs.org/)
+    > JavaScript 3D引擎
+* [d3js]com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92
 Vue3 | Vue3-News | https://github.com/vue3/vue3-News 
 React | 30-Days-Of_React | https://github.com/Asabeneh/30-Days-Of-React
 
@@ -43,6 +45,30 @@ HTTP | 图解http | https://book.douban.com/subject/25863515/
 * [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
 * [Fabric.js](https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension)
     > Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用
+* [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+    > Node.js 最佳实践, 样式指南，架构建议
+* [deno](https://deno.land/)
+    > 一个安全的运行时的JavaScript和TypeScript
+* [Three.js](https://threejs.org/)
+    > JavaScript 3D引擎
+* [d3js](https://d3js.org/)
+    > 借助SVG，Canvas和HTML使数据栩栩如生。
+* [introjs](https://introjs.com/)
+    > 引导用户浏览您的应用程序
+* [nginxconfig](https://github.com/digitalocean/nginxconfig.io)
+    > nginx配置生成器
+* [graphql-explorer](https://docs.github.com/en/graphql/overview/explorer)
+    > GraphQL资源管理器,利用真实的、实时的生产数据
+* [greasyfork](https://greasyfork.org/zh-CN)
+    > 提供油猴脚本
+* [hoppscotch](https://hoppscotch.io/)
+    > postman替代品，开源可定制
+* [frp](https://github.com/fatedier/frp)
+    > 内网穿透, 本地代码调试线上页面，环境再也不是问题
+* [github.dev](https://github.dev)
+    > 随时随地在线编写代码
+* [vscode.dev](https://vscode.dev/)
+    > 有浏览器的地方就有vscode
 
 ### 🤡面试
  名称 | Star
