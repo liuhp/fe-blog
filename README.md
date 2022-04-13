@@ -18,7 +18,10 @@
 
 ### 🐒React
 
-github： https://github.com/Asabeneh/30-Days-Of-React
+github： https://github.com/Asabeneh/30-Days-Of-React 
+
+### 👑Javascript
+1. [es6](https://es6.ruanyifeng.com/)
 
 ### 🙉CSS
 1. [张鑫旭个人网站](https://www.zhangxinxu.com/wordpress/)
