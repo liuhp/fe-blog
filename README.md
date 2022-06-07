@@ -35,6 +35,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 
 ### 🍋算法
 1. [labuladong 的算法小抄](https://labuladong.github.io/algo/)
+2. [b站左神教学视频](https://www.bilibili.com/video/BV13g41157hK?spm_id_from=333.337.search-card.all.click)
 
 ### 🦁技术周刊
 1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
