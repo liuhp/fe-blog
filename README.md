@@ -23,6 +23,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 ### 👑Javascript
 1. [es6](https://es6.ruanyifeng.com/)
 
+
 ### 🙉CSS
 1. [张鑫旭个人网站](https://www.zhangxinxu.com/wordpress/)
 2. 书籍：CSS揭秘
@@ -36,6 +37,9 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 ### 🍋算法
 1. [labuladong 的算法小抄](https://labuladong.github.io/algo/)
 2. [b站左神教学视频](https://www.bilibili.com/video/BV13g41157hK?spm_id_from=333.337.search-card.all.click)
+
+### 好文
+1. [[JS]从两道面试题加深理解闭包与箭头函数中的this](https://www.cnblogs.com/echolun/p/11969938.html)
 
 ### 🦁技术周刊
 1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
