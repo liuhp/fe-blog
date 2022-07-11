@@ -38,7 +38,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 1. [labuladong 的算法小抄](https://labuladong.github.io/algo/)
 2. [b站左神教学视频](https://www.bilibili.com/video/BV13g41157hK?spm_id_from=333.337.search-card.all.click)
 
-### 好文
+### 🦁好文
 1. [[JS]从两道面试题加深理解闭包与箭头函数中的this](https://www.cnblogs.com/echolun/p/11969938.html)
 
 ### 🦁技术周刊
