@@ -52,6 +52,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 3. [在线画图](https://excalidraw.com/)
 4. [项目用到这十多种轮子助我提升开发效率](https://juejin.cn/post/7012012633180078117?utm_source=gold_browser_extension#heading-17)
 5. Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用：https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension
+6. [在线制作类似方形盾牌类的icon](https://shields.io/)
 
 ### 🐷系统设计
 1. https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
