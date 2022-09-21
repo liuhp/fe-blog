@@ -54,6 +54,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 5. Fabric.js 是一个可以简化 Canvas 程序编写的库，例如在截图上进行标注绘制箭头，矩形等场景使用：https://github.com/fabricjs/fabric.js?utm_source=gold_browser_extension
 6. [在线制作类似方形盾牌类的icon](https://shields.io/)
 7. [改图神器-在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器](https://img.logosc.cn/)
+8. [免费的SVG素材网站](https://undraw.co/)
 
 ### 🐷系统设计
 1. https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
