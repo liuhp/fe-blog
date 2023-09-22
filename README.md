@@ -27,6 +27,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 ### 🙉CSS
 1. [张鑫旭个人网站](https://www.zhangxinxu.com/wordpress/)
 2. 书籍：CSS揭秘
+3. [CSS资源汇总](https://juejin.cn/post/7280430525700456482?utm_source=gold_browser_extension)
 
 ### 🐷HTTP
 
