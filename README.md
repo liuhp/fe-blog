@@ -2,19 +2,11 @@
 资源汇总
 
 
-### ✍博客
-1. [本人学习记录，持续更新](https://liuhp.github.io/)
 
-
-### 🌺Vue3
+### 🌺Vue
 1. 优质github：[Vue3-News](https://github.com/vue3/vue3-News)
 2. [vue3源码及生态系列](https://vue3js.cn/)
-
-
-### 🐶Vue2
- 1.[Vue源码系列](https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92)
-
-
+3. [Vue2源码系列](https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92)
 
 ### 🐒React
 
@@ -71,3 +63,4 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 1. RSS： https://rss.shab.fun/
 2. [前端导航](https://www.kwgg2020.com/#) 汇聚了前端各种资源  (已下线)
 3. [资源学习](https://csdiy.wiki/Web%E5%BC%80%E5%8F%91/CS142/)
+4. [自己学习路线]()
