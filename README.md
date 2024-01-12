@@ -63,4 +63,3 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 1. RSS： https://rss.shab.fun/
 2. [前端导航](https://www.kwgg2020.com/#) 汇聚了前端各种资源  (已下线)
 3. [资源学习](https://csdiy.wiki/Web%E5%BC%80%E5%8F%91/CS142/)
-4. [自己学习路线]
