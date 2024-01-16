@@ -2,7 +2,7 @@
 资源汇总
 ## 前端
 ### 原创文章
-1. [前端工程化]()
+1. [前端工程化](https://github.com/liuhp/fe-blog/issues/3)
 
 ### 🙉CSS
 1. [张鑫旭个人网站](https://www.zhangxinxu.com/wordpress/)
