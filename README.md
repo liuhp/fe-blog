@@ -32,7 +32,8 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 1. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
 2. [阮一峰-科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
 3. [[JS]从两道面试题加深理解闭包与箭头函数中的this](https://www.cnblogs.com/echolun/p/11969938.html)
-
+4. [大文件上传解决方案](https://developer.jdcloud.com/article/3627?mid=30)
+   
 ### 🐷系统设计
 1. https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
 2. https://www.frontendinterviewhandbook.com/introduction/
