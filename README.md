@@ -29,7 +29,7 @@ github： https://github.com/Asabeneh/30-Days-Of-React
 2. [b站左神教学视频](https://www.bilibili.com/video/BV13g41157hK?spm_id_from=333.337.search-card.all.click)
 
 ## 🦁好文与技术周刊
-1. 技术文章()
+1. [技术文章收集](https://github.com/liuhp/fe-blog/issues/5#issue-2185660364)
 2. 前端精读周刊。帮你理解最前沿、实用的技术: https://github.com/ascoders/weekly
 3. [阮一峰-科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
 4. [[JS]从两道面试题加深理解闭包与箭头函数中的this](https://www.cnblogs.com/echolun/p/11969938.html)
