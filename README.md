@@ -14,9 +14,11 @@
 1. 优质github：[Vue3-News](https://github.com/vue3/vue3-News)
 2. [vue3源码及生态系列](https://vue3js.cn/)
 3. [Vue2源码系列](https://vue-js.com/learn-vue/start/#_2-%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92)
-
+4. [Vue技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+   
 ### 🐒React
-github： https://github.com/Asabeneh/30-Days-Of-React 
+1. github： https://github.com/Asabeneh/30-Days-Of-React 
+2. [React技术揭秘](https://react.iamkasong.com/)
 
 ## 网络
 ### 🐷HTTP
