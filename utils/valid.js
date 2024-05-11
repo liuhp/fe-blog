@@ -1,4 +1,4 @@
-```
+
 // 实现禁止输入特殊字符,并且不超多number字符长度
 function(value, number = 255) {
   value = value.replace(/[`~!@#$%^&*()_\-+=<>?:"{}|,./;'\\[\]·~！@#￥%……&*（）——\-+={}|《》？：“”【】、；‘’，。、]/g, '').replace(/\s/g, '')
@@ -11,4 +11,3 @@ function(value, number = 255) {
   }
   return value
 }
-```
